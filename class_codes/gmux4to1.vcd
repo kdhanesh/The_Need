@@ -1,0 +1,126 @@
+$date
+	Tue May 14 10:12:59 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 1 ! out $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ c $end
+$var reg 1 % d $end
+$var reg 1 & s0 $end
+$var reg 1 ' s1 $end
+$var integer 32 ( i [31:0] $end
+$scope module dut $end
+$var wire 1 ) T1 $end
+$var wire 1 * T2 $end
+$var wire 1 + T3 $end
+$var wire 1 , T4 $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 $ c $end
+$var wire 1 % d $end
+$var wire 1 ! out $end
+$var wire 1 & s0 $end
+$var wire 1 - s0bar $end
+$var wire 1 ' s1 $end
+$var wire 1 . s1bar $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+x.
+x-
+x,
+x+
+x*
+x)
+b0 (
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#5
+0!
+1-
+1.
+0)
+0*
+0+
+0,
+b1 (
+0&
+0'
+0"
+0#
+0$
+0%
+#10
+b10 (
+1%
+#15
+b11 (
+1$
+0%
+#20
+b100 (
+1%
+#25
+b101 (
+1#
+0$
+0%
+#30
+b110 (
+1%
+#35
+b111 (
+1$
+0%
+#40
+b1000 (
+1%
+#45
+1!
+1)
+b1001 (
+1"
+0#
+0$
+0%
+#50
+b1010 (
+1%
+#55
+b1011 (
+1$
+0%
+#60
+b1100 (
+1%
+#65
+b1101 (
+1#
+0$
+0%
+#70
+b1110 (
+1%
+#75
+b1111 (
+1$
+0%
+#85
