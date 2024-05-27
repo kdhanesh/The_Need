@@ -1,0 +1,11 @@
+Links for the Projects
+https://github.com/darthsider/UART
+https://github.com/freecores/sparc64soc/tree/master/OC-UART
+https://www.youtube.com/playlist?list=PL-D22fNmdLFTA4rEanMZu1g43GBEj4OLo uart - explained 
+
+https://www.youtube.com/playlist?list=PL-iIOnHwN7NUpkOWAQ9Fc7MMddai9vHvN - advance concept hdl explained
+
+https://github.com/teekamkhandelwal/asynchronous_fifo/blob/main/README.md - async code and explanation
+
+https://github.com/JonathanJing/Asynchronous-FIFO/blob/master/asy_fifo.v async_fifo simpilfied
+
